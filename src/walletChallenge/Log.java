@@ -2,7 +2,7 @@ package walletChallenge;
 
 import java.util.Date;
 
-public class log {
+public class Log {
 	
 	private Date date;
 	private String ip;
@@ -10,7 +10,7 @@ public class log {
 	private String status;
 	private String userAgent;
 	
-	public log(Date date, String ip, String request, String status, String userAgent) {
+	public Log(Date date, String ip, String request, String status, String userAgent) {
 		super();
 		this.date = date;
 		this.ip = ip;

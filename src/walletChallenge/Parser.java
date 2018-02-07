@@ -1,5 +1,5 @@
 package walletChallenge;
 
-public class parser {
+public class Parser {
 
 }
